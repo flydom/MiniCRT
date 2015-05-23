@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
 	printf("********** Welcome to MiniCRT! **********\n");
-    
+
 #if 0
     int i;
     FILE *fp;
@@ -42,7 +42,8 @@ int main(int argc, char *argv[])
 #endif
 
     printf("Hello World For Fun!\n");
-
+	printf("************ End to MiniCRT! ************\n");
+	
     return 0;
 }
 
