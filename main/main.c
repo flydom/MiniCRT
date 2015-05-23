@@ -2,8 +2,8 @@
 
 int main(int argc, char *argv[])
 {
-	printf("********** Welcome to MiniCRT! **********\n";)
-
+	printf("********** Welcome to MiniCRT! **********\n");
+    
 #if 0
     int i;
     FILE *fp;

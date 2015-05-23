@@ -10,7 +10,10 @@ echo ===========================================================
 echo Make MiniCRT ...
 echo ===========================================================
 echo "./make.sh [target] [clean]"
-echo ...
+echo "target:"
+echo "minicrt: minicrt.a."
+echo "main: test elf file."
+echo "clean: clean *.a / *.o / elf"
 echo ===========================================================
 }
 
