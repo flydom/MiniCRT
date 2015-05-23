@@ -14,8 +14,8 @@ clean: 清除掉所有库、目标.o文件以及main程序。
 
 使用步骤：
 
-1) ./make.sh clean     // 清除所有多余文件；
+1) ./make.sh clean       // 清除所有多余文件；
 
-2) ./make.sh minicrt   // 编译生成minicrt.a静态库；
+2) ./make.sh minicrt     // 编译生成minicrt.a静态库；
 
-3) ./make.sh main      // 编译生成main执行程序；
+3) ./make.sh main        // 编译生成main执行程序；
