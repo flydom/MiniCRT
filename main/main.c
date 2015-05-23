@@ -2,7 +2,9 @@
 
 int main(int argc, char *argv[])
 {
-#if 1
+	printf("********** Welcome to MiniCRT! **********\n";)
+
+#if 0
     int i;
     FILE *fp;
     long *len = malloc(sizeof(long));
