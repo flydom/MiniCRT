@@ -2,8 +2,8 @@
 《程序员的自我修养》运行库：MiniCRT实现。
 
 编译：
-进入make目录，执行./make.sh，将会打印使用说明，其中：
 
+进入make目录，执行./make.sh，将会打印使用说明，其中：
 target有minicrt、main以及clean三个选项:
 
 minicrt: 该项编译出minicrt.a静态库；
